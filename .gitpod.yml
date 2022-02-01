@@ -4,9 +4,7 @@ tasks:
       echo 'TODO: build project'
     command: |
       echo 'TODO: start app'
-  - name: libs
-    command: pip install selenium
-      echo 'selenium'
+      command: pip install selenium
 
 vscode:
   extensions:
