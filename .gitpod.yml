@@ -4,7 +4,7 @@ tasks:
       echo 'TODO: build project'
     command: |
       echo 'TODO: start app'
-  -name: libs
+  - name: libs
     command: pip install selenium
       echo selenium
 
