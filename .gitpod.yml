@@ -6,7 +6,7 @@ tasks:
       echo 'TODO: start app'
   - name: libs
     command: pip install selenium
-      echo selenium
+      echo 'selenium'
 
 vscode:
   extensions:
